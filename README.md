@@ -6,7 +6,7 @@ Information:
 
 3. **generateMatrix**: A PHP script that generates a 2D matrix.
 
-4. **item_project**: Laravel project
+4. **item_project**: Laravel project (v8)
 
 Instalation:
 
@@ -15,4 +15,5 @@ Instalation:
 - composer install / update
 - php artisan migrate
 - php artisan l5-swagger:generate
-- php artisan server
+- php artisan serve
+- access : http://127.0.0.1:8000/api/documentation
